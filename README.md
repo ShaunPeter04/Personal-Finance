@@ -33,7 +33,7 @@ Open and type localhost/ /filename/ file in a browser or use a local web server.
 📌 Tech Stack
 Frontend: HTML, CSS, JavaScript (Website) | Flutter (Mobile App)
 Backend: Python (Django)
-Database: PostgreSQL
+Database: MySQL
 
 🎯 Contributors
 👤 Shaun Peter Antony
